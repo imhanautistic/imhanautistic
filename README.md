@@ -1,23 +1,19 @@
-### Hi there! 👋 I'm Mhana
+# 💫 About Me:
+### Hi there! 👋 I'm Mhana<br><br>**Computer Science Student | Game Developer | Web Developer**<br><br>I am a passionate CS student currently exploring the intersection of code, design, and storytelling. My journey is driven by a diverse set of interests, from crafting beautiful web interfaces and game worlds to understanding the security behind the systems we use.<br><br>🌟 **The Dream**<br>I am currently working towards a major personal milestone: developing a **2.5D story-driven game**. I've already written the narrative and am now building the technical skills in **Unity** and **C#** to bring these characters to life.<br><br>🔭 **Current Focus**<br>* **Game Development:** Mastering Unity, C#, and sprite animation.<br>* **Web Development:** Learning modern web technologies to build responsive and aesthetic sites.<br>* **Design:** Exploring UI/UX and styling (CSS).<br>* **Systems:** Learning about Cybersecurity and Linux environments.<br><br>🛠 **Tech & Tools**<br>* **Languages:** Python, C++, C#, JavaScript<br>* **Web:** HTML, CSS<br>* **Game Engines:** Unity<br>* **Environment:** Arch Linux (I enjoy ricing my setup!)<br>* **Tools:** Git, Notion, Figma<br><br>Start a conversation with me about **game design, web development, or Linux customization!**<br>
 
-**Computer Science Student | Game Developer | Web Developer**
 
-I am a passionate CS student currently exploring the intersection of code, design, and storytelling. My journey is driven by a diverse set of interests, from crafting beautiful web interfaces and game worlds to understanding the security behind the systems we use.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imhanautistic) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imhanautistic) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/imhanautistic) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/imhanautistic) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@imhanautistic) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/imhanautistic) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@imhanautistic) 
 
-🌟 **The Dream**
-I am currently working towards a major personal milestone: developing a **2.5D story-driven game**. I've already written the narrative and am now building the technical skills in **Unity** and **C#** to bring these characters to life.
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=imhanautistic&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=imhanautistic&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=imhanautistic&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-🔭 **Current Focus**
-* **Game Development:** Mastering Unity, C#, and sprite animation.
-* **Web Development:** Learning modern web technologies to build responsive and aesthetic sites.
-* **Design:** Exploring UI/UX and styling (CSS).
-* **Systems:** Learning about Cybersecurity and Linux environments.
+  ## 💰 You can help me by Donating
+  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/imhanautistic) 
 
-🛠 **Tech & Tools**
-* **Languages:** Python, C++, C#, JavaScript
-* **Web:** HTML, CSS
-* **Game Engines:** Unity
-* **Environment:** Arch Linux (I enjoy ricing my setup!)
-* **Tools:** Git, Notion
-
-Start a conversation with me about **game design, web development, or Linux customization!**
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
