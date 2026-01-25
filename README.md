@@ -13,6 +13,7 @@
     <a href="https://x.com/imhanautistic" target="_blank"><img src="https://github.com/user-attachments/assets/52366ffb-c78d-495b-ba5f-f18e0770fbff" height="50" alt="twitter" /><img width="20" /></a>
     <a href="https://youtube.com/@imhanautistic" target="_blank"><img src="https://github.com/user-attachments/assets/93f3fb7d-3514-417e-9f7a-1dacba2f949a" height="50" alt="YouTube" /><img width="20" /></a>
   </div>
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/68a8fee0-c035-458d-9863-fa9e487638e4" />
 
 
 # 💻 Tech Stack:
@@ -43,4 +44,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imhanautistic&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/imhanautistic) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/imhanautistic) 
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#72a4f2', 'J3J51SOHOH');kofiwidget2.draw();</script> 
