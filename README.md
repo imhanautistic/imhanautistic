@@ -9,7 +9,7 @@
     <a href="https://linkedin.com/in/imhanautistic" target="_blank"><img src="https://github.com/user-attachments/assets/21d58be8-d7c2-4dfa-b3d1-326fca58ce6f" height="50" alt="LinkedIn" /><img width="20" /></a>
     <a href="https://pinterest.com/imhanautistic" target="_blank"><img src="https://github.com/user-attachments/assets/ce1d060e-c73c-4320-a28a-129a2a9102be" height="50" alt="Pinterest" /><img width="20" /></a>
     <a href="https://reddit.com/user/imhanautistic" target="_blank"><img src="https://github.com/user-attachments/assets/194ff72b-553e-4f08-b776-ab1d6a90f601" height="50" alt="Reddit" /><img width="20" /></a>
-    <a href="https://tiktok.com/@imhanautistic" target="_blank"><img src="https://github.com/user-attachments/assets/a7324a48-dab7-41a4-a29d-cc3ce992bb0f" height="50" alt="TikTok" /><img width="20" /></a>
+    <a href="https://tiktok.com/@imhanautistic" target="_blank"><img src="https://github.com/user-attachments/assets/a7324a48-dab7-41a4-a29d-cc3ce992bb0f" height="60" alt="TikTok" /><img width="20" /></a>
     <a href="https://x.com/imhanautistic" target="_blank"><img src="https://github.com/user-attachments/assets/508ba9b5-1bdd-4436-9f26-aa86583b0df9" height="50" alt="X" /><img width="20" /></a>
     <a href="https://youtube.com/@imhanautistic" target="_blank"><img src="https://github.com/user-attachments/assets/eb251f77-0e98-4694-b404-8632e8ed9529" height="50" alt="YouTube" /><img width="20" /></a>
   </div>
