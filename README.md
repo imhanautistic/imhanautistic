@@ -44,5 +44,5 @@
 
   ## 💰 You can help me by Donating
 <a href='https://ko-fi.com/J3J51SOHOH' target='_blank'>
-  <img height='50' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_dark.png' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+  <img height='50' style='border:0px;height:50px;' src='https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_dark.png' border='0' alt='Buy Me a Coffee at ko-fi.com' />
 </a>
