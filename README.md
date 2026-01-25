@@ -1,6 +1,6 @@
 # 💫 About Me:
-### Hi there! 👋 I'm Mhana<br><br>
-### **Computer Science Student | Game Developer | Web Developer**<br>
+### Hi there! 👋 I'm Mhana<br>
+### **Computer Science Student | Game Developer | Web Developer**
 
 <img src="assets/anime-computer-gurl.gif" align="right" width="200" alt="description" /><br>
 
