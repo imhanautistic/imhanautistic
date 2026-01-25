@@ -16,7 +16,7 @@
 
 
 # 💻 Tech Stack:
-<div align="مثبف">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
@@ -43,6 +43,8 @@
 
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=imhanautistic&theme=dark&hide_border=true)<br>
-![](https://github-readme-stats.vercel.app/api?username=imhanautistic&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=imhanautistic&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<div align="left">
+  ![](https://nirzak-streak-stats.vercel.app/?user=imhanautistic&theme=dark&hide_border=true)<br>
+  ![](https://github-readme-stats.vercel.app/api?username=imhanautistic&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imhanautistic&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+</div>
