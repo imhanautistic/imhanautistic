@@ -6,13 +6,35 @@
 
 
 ## 🌐 Socials:
-[![instagram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg)](https://instagram.com/imhanautistic)&nbsp;&nbsp;&nbsp;
-[![linkedin](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg)](https://linkedin.com/in/imhanautistic)&nbsp;&nbsp;&nbsp;
-[![pinterest](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/pinterest.svg)](https://pinterest.com/imhanautistic)&nbsp;&nbsp;&nbsp;
-[![reddit](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/reddit.svg)](https://reddit.com/user/imhanautistic)&nbsp;&nbsp;&nbsp;
-[![tiktok](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/tiktok.svg)](https://tiktok.com/@imhanautistic)&nbsp;&nbsp;&nbsp;
-[![x](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter-x.svg)](https://x.com/imhanautistic)&nbsp;&nbsp;&nbsp;
-[![youtube](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/youtube.svg)](https://youtube.com/@imhanautistic)
+<p align="center">
+  <a href="https://instagram.com/imhanautistic" target="_blank">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" height="50" alt="Instagram" />
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://linkedin.com/in/imhanautistic" target="_blank">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" height="50" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://pinterest.com/imhanautistic" target="_blank">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/pinterest.svg" height="50" alt="Pinterest" />
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://reddit.com/user/imhanautistic" target="_blank">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/reddit.svg" height="50" alt="Reddit" />
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://tiktok.com/@imhanautistic" target="_blank">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/tiktok.svg" height="50" alt="TikTok" />
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://x.com/imhanautistic" target="_blank">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter-x.svg" height="50" alt="X" />
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://youtube.com/@imhanautistic" target="_blank">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/youtube.svg" height="50" alt="YouTube" />
+  </a>
+</p>
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
