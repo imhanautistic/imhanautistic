@@ -43,6 +43,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imhanautistic&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
   ## 💰 You can help me by Donating
-<a href='https://ko-fi.com/J3J51SOHOH' target='_blank'>
-  <img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
-</a>
+[![Ko-fi](https://img.shields.io/badge/Support%20me%20on%20Ko--fi-000000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/J3J51SOHOH)
