@@ -5,14 +5,15 @@
 
   # 🌐 Social Media:
   <div align="center">
-    <a href="https://instagram.com/imhanautistic" target="_blank"><img src="https://github.com/user-attachments/assets/69b4be5c-f4af-4a60-adb4-1bcfd3613027" height="50" alt="Instagram" /><img width="20" /></a>
-    <a href="https://linkedin.com/in/imhanautistic" target="_blank"><img src="https://github.com/user-attachments/assets/e28d100c-682b-457f-9a48-a6550e9dc18b" height="100" alt="LinkedIn" /><img width="20" /></a>
-    <a href="https://pinterest.com/imhanautistic" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/pinterest.svg" height="100" alt="Pinterest" /><img width="20" /></a>
-    <a href="https://reddit.com/user/imhanautistic" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/reddit.svg" height="100" alt="Reddit" /><img width="20" /></a>
-    <a href="https://tiktok.com/@imhanautistic" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/tiktok.svg" height="100" alt="TikTok" /><img width="20" /></a>
-    <a href="https://x.com/imhanautistic" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter-x.svg" height="100" alt="X" /><img width="20" /></a>
-    <a href="https://youtube.com/@imhanautistic" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/youtube.svg" height="100" alt="YouTube" /><img width="20" /></a>
+    <a href="https://instagram.com/imhanautistic" target="_blank"><img src="https://github.com/user-attachments/assets/54885476-c356-4cf7-80ea-ce993fb2d3cf" height="50" alt="Instagram" /><img width="20" /></a>
+    <a href="https://linkedin.com/in/imhanautistic" target="_blank"><img src="https://github.com/user-attachments/assets/21d58be8-d7c2-4dfa-b3d1-326fca58ce6f" height="50" alt="LinkedIn" /><img width="20" /></a>
+    <a href="https://pinterest.com/imhanautistic" target="_blank"><img src="https://github.com/user-attachments/assets/ce1d060e-c73c-4320-a28a-129a2a9102be" height="50" alt="Pinterest" /><img width="20" /></a>
+    <a href="https://reddit.com/user/imhanautistic" target="_blank"><img src="https://github.com/user-attachments/assets/194ff72b-553e-4f08-b776-ab1d6a90f601" height="50" alt="Reddit" /><img width="20" /></a>
+    <a href="https://tiktok.com/@imhanautistic" target="_blank"><img src="https://github.com/user-attachments/assets/a7324a48-dab7-41a4-a29d-cc3ce992bb0f" height="50" alt="TikTok" /><img width="20" /></a>
+    <a href="https://x.com/imhanautistic" target="_blank"><img src="https://github.com/user-attachments/assets/508ba9b5-1bdd-4436-9f26-aa86583b0df9" height="50" alt="X" /><img width="20" /></a>
+    <a href="https://youtube.com/@imhanautistic" target="_blank"><img src="https://github.com/user-attachments/assets/eb251f77-0e98-4694-b404-8632e8ed9529" height="50" alt="YouTube" /><img width="20" /></a>
   </div>
+
 
 # 💻 Tech Stack:
 <div align="center">
