@@ -1,8 +1,8 @@
 # 💫 About Me:
 ### Hi there! 👋 I'm Mhana<br><br>
-###**Computer Science Student | Game Developer | Web Developer**<br><br>
+### **Computer Science Student | Game Developer | Web Developer**<br>
 
-<img src="assets/anime-computer-gurl.gif" align="right" width="200" alt="description" />
+<img src="assets/anime-computer-gurl.gif" align="right" width="200" alt="description" /><br>
 
 ### I'm a passionate Computer Science student diving into the exciting blend of coding, design, and storytelling. My journey is fueled by a wide range of interests, from creating stunning web interfaces and immersive game worlds to delving into the security aspects of the systems we rely on.<br><br>
 ### 🌟 **My Dream**<br>
