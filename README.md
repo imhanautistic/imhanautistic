@@ -1,4 +1,4 @@
-<img src="assets/anime-computer-gurl.gif" alt="me" width="150"/>
+<img src="assets/anime-computer-gurl.gif" alt="me" width="300"/>
 
 
 # 💫 About Me:
