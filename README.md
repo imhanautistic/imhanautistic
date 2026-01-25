@@ -40,19 +40,3 @@
 <a href='https://ko-fi.com/J3J51SOHOH' target='_blank'>
   <img height='50' style='border:0px;height:50px;' src='https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_dark.png' border='0' alt='Buy Me a Coffee at ko-fi.com' />
 </a>
-
-
-# 📊 GitHub Stats:
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=imhanautistic&theme=dark&hide_border=true" alt="Streak Stats" /><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=imhanautistic&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imhanautistic&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" />
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imhanautistic/imhanautistic/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imhanautistic/imhanautistic/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/imhanautistic/imhanautistic/output/pacman-contribution-graph.svg">
-</picture>
-
-###
