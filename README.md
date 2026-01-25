@@ -1,32 +1,7 @@
 <div align="center"><img src="assets/anime-computer-gurl.gif" alt="me" width="300"/></div>
 <p align="center">
-  <a href="https://instagram.com/imhanautistic" target="_blank">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" height="50" alt="Instagram" />
-  </a>
-
-  <a href="https://linkedin.com/in/imhanautistic" target="_blank">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" height="50" alt="LinkedIn" />
-  </a>
-
-  <a href="https://pinterest.com/imhanautistic" target="_blank">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/pinterest.svg" height="50" alt="Pinterest" />
-  </a>
-
-  <a href="https://reddit.com/user/imhanautistic" target="_blank">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/reddit.svg" height="50" alt="Reddit" />
-  </a>
-
-  <a href="https://tiktok.com/@imhanautistic" target="_blank">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/tiktok.svg" height="50" alt="TikTok" />
-  </a>
-
-  <a href="https://x.com/imhanautistic" target="_blank">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter-x.svg" height="50" alt="X" />
-  </a>
-
-  <a href="https://youtube.com/@imhanautistic" target="_blank">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/youtube.svg" height="50" alt="YouTube" />
-  </a>
+<p align="center">
+  <a href="https://instagram.com/imhanautistic" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" height="50" alt="Instagram" /></a>&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/imhanautistic" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" height="50" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;<a href="https://pinterest.com/imhanautistic" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/pinterest.svg" height="50" alt="Pinterest" /></a>&nbsp;&nbsp;&nbsp;<a href="https://reddit.com/user/imhanautistic" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/reddit.svg" height="50" alt="Reddit" /></a>&nbsp;&nbsp;&nbsp;<a href="https://tiktok.com/@imhanautistic" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/tiktok.svg" height="50" alt="TikTok" /></a>&nbsp;&nbsp;&nbsp;<a href="https://x.com/imhanautistic" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter-x.svg" height="50" alt="X" /></a>&nbsp;&nbsp;&nbsp;<a href="https://youtube.com/@imhanautistic" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/youtube.svg" height="50" alt="YouTube" /></a>
 </p>
 
 # 💫 About Me:
