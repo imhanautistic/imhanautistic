@@ -43,4 +43,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imhanautistic&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
   ## 💰 You can help me by Donating
-[![Ko-fi](https://img.shields.io/badge/Support%20me%20on%20Ko--fi-000000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/J3J51SOHOH)
+[![Ko-fi](https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_dark.png)](https://ko-fi.com/J3J51SOHOH)
