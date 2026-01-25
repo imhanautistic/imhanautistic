@@ -13,7 +13,6 @@
     <a href="https://x.com/imhanautistic" target="_blank"><img src="https://github.com/user-attachments/assets/52366ffb-c78d-495b-ba5f-f18e0770fbff" height="50" alt="twitter" /><img width="20" /></a>
     <a href="https://youtube.com/@imhanautistic" target="_blank"><img src="https://github.com/user-attachments/assets/93f3fb7d-3514-417e-9f7a-1dacba2f949a" height="50" alt="YouTube" /><img width="20" /></a>
   </div>
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/68a8fee0-c035-458d-9863-fa9e487638e4" />
 
 
 # 💻 Tech Stack:
@@ -44,4 +43,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imhanautistic&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
   ## 💰 You can help me by Donating
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#72a4f2', 'J3J51SOHOH');kofiwidget2.draw();</script> 
+<a href='https://ko-fi.com/J3J51SOHOH' target='_blank'>
+  <img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+</a>
