@@ -6,12 +6,12 @@
 
 
 ## 🌐 Socials:
-[![instagram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg)](https://instagram.com/imhanautistic)&nbsp;
-[![linkedin](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg)](https://linkedin.com/in/imhanautistic)&nbsp;
-[![pinterest](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/pinterest.svg)](https://pinterest.com/imhanautistic)&nbsp;
-[![reddit](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/reddit.svg)](https://reddit.com/user/imhanautistic)&nbsp;
-[![tiktok](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/tiktok.svg)](https://tiktok.com/@imhanautistic)&nbsp;
-[![x](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter-x.svg)](https://x.com/imhanautistic)&nbsp;
+[![instagram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg)](https://instagram.com/imhanautistic)&nbsp;&nbsp;&nbsp;
+[![linkedin](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg)](https://linkedin.com/in/imhanautistic)&nbsp;&nbsp;&nbsp;
+[![pinterest](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/pinterest.svg)](https://pinterest.com/imhanautistic)&nbsp;&nbsp;&nbsp;
+[![reddit](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/reddit.svg)](https://reddit.com/user/imhanautistic)&nbsp;&nbsp;&nbsp;
+[![tiktok](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/tiktok.svg)](https://tiktok.com/@imhanautistic)&nbsp;&nbsp;&nbsp;
+[![x](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter-x.svg)](https://x.com/imhanautistic)&nbsp;&nbsp;&nbsp;
 [![youtube](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/youtube.svg)](https://youtube.com/@imhanautistic)
 
 # 💻 Tech Stack:
