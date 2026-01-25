@@ -11,7 +11,7 @@
 [![pinterest](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/pinterest.svg)](https://pinterest.com/imhanautistic)&nbsp;
 [![reddit](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/reddit.svg)](https://reddit.com/user/imhanautistic)&nbsp;
 [![tiktok](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/tiktok.svg)](https://tiktok.com/@imhanautistic)&nbsp;
-[![x](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/x.svg)](https://x.com/imhanautistic)&nbsp;
+[![x](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter-x.svg)](https://x.com/imhanautistic)&nbsp;
 [![youtube](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/youtube.svg)](https://youtube.com/@imhanautistic)
 
 # 💻 Tech Stack:
