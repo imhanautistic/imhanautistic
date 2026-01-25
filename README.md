@@ -36,7 +36,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
 </div>
 
-## 🎁 If You Want to Support My Journey
+## 🎁 Support My Journey
 <a href='https://ko-fi.com/J3J51SOHOH' target='_blank'>
   <img height='50' style='border:0px;height:50px;' src='https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_dark.png' border='0' alt='Buy Me a Coffee at ko-fi.com' />
 </a>
