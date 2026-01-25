@@ -7,7 +7,7 @@
 [![pinterest](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/pinterest.svg)](https://pinterest.com/imhanautistic)
 [![reddit](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/reddit.svg)](https://reddit.com/user/imhanautistic)
 [![tiktok](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/tiktok.svg)](https://tiktok.com/@imhanautistic)
-[![x](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/x.svg)](https://x.com/imhanautistic)
+[![x](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter-x.svg)](https://x.com/imhanautistic)
 [![youtube](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/youtube.svg)](https://youtube.com/@imhanautistic)
 
 # 💫 About Me:
