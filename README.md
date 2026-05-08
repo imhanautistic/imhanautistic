@@ -1,26 +1,12 @@
 # 💫 About Me
 <img src="assets/anime-computer-gurl.gif" align="right" width="230" alt="literally me" />
 
-### Hi there! 👋 I'm Mhana<br><br>**Computer Science Student | Aspiring Software Engineer**<br><br>I'm an ambitious Computer Science student driven by a deep passion for software engineering and problem-solving. I thrive on the challenge of building robust, efficient applications and am constantly pushing myself to write cleaner, more maintainable code. Whether I'm structuring a complex backend or designing an intuitive user interface, I love turning logic into impactful software.<br><br>🌟 **My Dream**<br>My ultimate focus right now is growing into a versatile software engineer. I'm actively immersing myself in core engineering principles, object-oriented programming, and system design. From diving into technical literature to collaborating on hands-on team projects, I am building the foundation necessary to tackle real-world software challenges.<br><br>🔭 **Current Focus**<br>• ***Software Engineering:** Deepening my understanding of algorithms, data structures, and best practices (currently applying lessons from *Clean Code*).<br>• **Development:** Building practical applications—like interactive booking systems—to master Java, Python, C++, and C#.<br>• **Design:** Exploring UI/UX and styling (CSS).<br>• **Environment:** Ricing and optimizing my Linux workspace for peak developer productivity.<br><br>Start a conversation with me about **software architecture**, your favorite **programming books**, or **Linux customization**!<br>
+### Hi there! 👋 I'm Mhana<br><br>**Computer Science Student | Aspiring Software Engineer**<br><br>I'm a dedicated Computer Science student with a singular focus on software engineering and systems design. I am passionate about solving complex problems through code, focusing on building robust, scalable, and efficient applications. For me, software engineering isn't just about making things work; it's about crafting clean, maintainable architecture and continuously refining my technical problem-solving skills.<br><br>🌟 **My Dream**<br>My ultimate objective is to become a highly proficient software engineer capable of tackling complex, real-world systems. I am heavily invested in mastering core computer science concepts, object-oriented programming, and system architecture to build a strong, versatile engineering foundation.<br><br>🔭 **Current Focus**<br>• **Core Engineering:** Deepening my knowledge of algorithms, data structures, and software development lifecycles.<br>• **Languages & Ecosystems:** Writing efficient code and building projects.<br>• **Best Practices:** Actively studying and applying principles from technical literature like *Clean Code* to ensure high-quality, readable syntax.<br>• **Environment:** Ricing and optimizing my Linux workspace for peak developer productivity.<br><br>Start a conversation with me about **software architecture**, your favorite **programming books**, or **Linux customization**!<br>
 
 
 # 💻 Tech Stack
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="50" alt="unity logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
 </div>
