@@ -1,5 +1,5 @@
 # 💫 About Me
-<img src="assets/anime-computer-gurl.gif" align="right" width="180" alt="literally me" />
+<img src="assets/anime-computer-gurl.gif" align="right" width="190" alt="literally me" />
 
 ### Hi there! 👋 I'm Mhana<br><br>**Computer Science Student | Aspiring Software Engineer**<br><br>I'm a dedicated Computer Science student with a singular focus on software engineering and systems design.<br>
 
