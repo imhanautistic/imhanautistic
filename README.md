@@ -9,14 +9,12 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
 </div>
-<br>
 
 # 🌐 Social Media
 <div align="left">
   <a href="https://instagram.com/imhanautistic" target="_blank"><img src="https://github.com/user-attachments/assets/54885476-c356-4cf7-80ea-ce993fb2d3cf" height="50" alt="Instagram" /><img width="20" /></a>
   <a href="https://linkedin.com/in/imhanautistic" target="_blank"><img src="https://github.com/user-attachments/assets/21d58be8-d7c2-4dfa-b3d1-326fca58ce6f" height="50" alt="LinkedIn" /><img width="20" /></a>
 </div>
-<br>
 
 # 🎁 Support My Journey
 <a href='https://ko-fi.com/J3J51SOHOH' target='_blank'>
